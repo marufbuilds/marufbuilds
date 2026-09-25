@@ -1,3 +1,11 @@
+
+<div align="center">
+  <img
+    src="./banner.png"
+    alt="MD Maruf GitHub Banner"
+    width="100%"
+  />
+</div>
 ## Hey! Nice to see you👀
 Welcome to my page!
 I'm **MARUF**, Fullstack → AI-Powered Software Engineer from  Rajshahi, Bangladesh .
