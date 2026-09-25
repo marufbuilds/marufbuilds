@@ -46,7 +46,7 @@ A modern fitness tracking web application for managing workouts and daily plans.
 
 Tech: Next.js · TypeScript · React · Tailwind CSS
 
-🔗 Live Demo · Source Code
+🔗 Live Demo ·  https://fitlog-three-vert.vercel.app/
 
 📫 Connect With Me
 
