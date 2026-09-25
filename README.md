@@ -1,4 +1,4 @@
-##😎 Hey! Nice to see you👀
+## Hey! Nice to see you👀
 Welcome to my page!
 I'm **MARUF**, Fullstack → AI-Powered Software Engineer from  Rajshahi, Bangladesh .
 
