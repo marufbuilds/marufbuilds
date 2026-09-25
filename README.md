@@ -1,6 +1,6 @@
 ## Hey! Nice to see you👀
 Welcome to my page!
-I'm *maruf*, Fullstack → AI-Powered Software Engineer developer from  Rajshahi, Bangladesh .
+I'm **MARUF**, Fullstack → AI-Powered Software Engineer from  Rajshahi, Bangladesh .
 
 
 ## 👨‍💻 About Me
